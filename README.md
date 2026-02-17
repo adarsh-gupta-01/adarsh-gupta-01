@@ -1,26 +1,26 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:a855f7,100:06b6d4&height=200&section=header&text=Adarsh%20Gupta&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1c2333&height=200&section=header&text=Adarsh%20Gupta&fontSize=60&fontColor=c9d1d9&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=20&animation=fadeIn&stroke=58a6ff&strokeWidth=2" width="100%"/>
 
 
 <!-- Typing Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%7C+AI+%26+ML+%40+LNCT+Bhopal;Building+Intelligent+Systems+%F0%9F%A4%96;Full+Stack+%7C+RAG+%7C+DSA+Enthusiast;Open+to+Collaborate+%26+Build+Cool+Stuff+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=B.Tech+CSE+%7C+AI+%26+ML+%40+LNCT+Bhopal;Building+RAG+systems+%26+full-stack+apps;Grinding+DSA+daily+%E2%80%94+180%2B+and+counting;Always+learning%2C+always+shipping" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/idealgupta/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Adarsh425/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarshgupta04022005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff)](https://www.linkedin.com/in/idealgupta/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-0d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/u/Adarsh425/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0d1117?style=for-the-badge&logo=geeksforgeeks&logoColor=2f8d46)](https://auth.geeksforgeeks.org/user/your-profile)
+[![Email](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=f85149)](mailto:adarshgupta04022005@gmail.com)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=adarsh-gupta-01&style=for-the-badge&color=a855f7)
-![GitHub Followers](https://img.shields.io/github/followers/adarsh-gupta-01?style=for-the-badge&color=6e40c9)
+![Profile Views](https://komarev.com/ghpvc/?username=adarsh-gupta-01&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS)
+![GitHub Followers](https://img.shields.io/github/followers/adarsh-gupta-01?style=for-the-badge&color=238636&label=FOLLOWERS)
 
 </div>
 
@@ -31,22 +31,14 @@
 ```python
 class AdarshGupta:
     def __init__(self):
-        self.name        = "Adarsh Gupta"
-        self.university  = "LNCT Bhopal"
-        self.degree      = "B.Tech CSE (AI & ML) — 3rd Year"
-        self.roles       = ["AI/ML Developer", "Full Stack Dev", "DSA Practitioner",
-                            "Graphic Designer @ Anigma Club"]
-        self.languages   = ["Python", "C++", "JavaScript"]
-        self.currently   = ["Building RAG systems", "Mastering Graphs & DP",
-                            "Exploring LLMs & Prompt Engineering"]
-        self.goal        = "Build impactful tech & crack a high-paying role 🎯"
-        self.fun_fact    = "I think in algorithms and dream in code 💭"
-
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something amazing together.")
+        self.name       = "Adarsh Gupta"
+        self.college    = "LNCT Bhopal — B.Tech CSE (AI/ML), 3rd Year"
+        self.building   = ["RAG systems", "full-stack apps", "random side projects at 2am"]
+        self.grinding   = "DSA every single day — no excuses"
+        self.also       = "Graphic Designer @ Anigma Club, LNCT"
+        self.goal       = "Land a solid tech role & keep shipping things that matter"
 
 me = AdarshGupta()
-me.say_hi()
 ```
 
 ---
@@ -89,26 +81,13 @@ me.say_hi()
 
 ---
 
-## 🧠 DSA Progress
+## 🧠 DSA — 180+ Problems & Counting
 
-<div align="center">
+**Solved 180+ problems** across GFG & LeetCode — doing it daily, no days off.
 
-| Platform | Problems Solved | Streak | Focus Areas |
-|:---:|:---:|:---:|:---:|
-| 🟢 GFG | 160+ | 🔥 Active | Arrays, Strings, Recursion |
-| 🟡 LeetCode | Growing | ⚡ Daily | Binary Search, Trees |
-| 🔵 Overall | 160+ structured | 📈 Improving | Graphs, DP |
+Topics covered: `Arrays` · `Strings` · `Recursion` · `Linked Lists` · `Stacks & Queues` · `Binary Search` · `Sorting` · `Trees` · `Hashing` · `Backtracking` · `Graphs (in progress)` · `Dynamic Programming (in progress)`
 
-</div>
-
-```
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩  Arrays & Strings       ████████████ Expert
-🟩🟩🟩🟩🟩🟩🟩🟩🟨🟨  Recursion & Backtrack  ██████████   Strong
-🟩🟩🟩🟩🟩🟩🟩🟨🟨🟨  Binary Search          █████████    Solid
-🟩🟩🟩🟩🟩🟩🟨🟨🟨🟨  Trees & Heaps          ████████     Improving
-🟩🟩🟩🟩🟩🟨🟨🟨🟨🟨  Graphs                 ██████       Growing
-🟩🟩🟩🟩🟨🟨🟨🟨🟨🟨  Dynamic Programming    █████        In Progress
-```
+> Currently grinding Graphs & DP — one problem a day, every day.
 
 ---
 
@@ -122,8 +101,6 @@ me.say_hi()
 | 🧠 **Second Brain** | Personal knowledge management system to organize thoughts & notes | React, Node.js, MongoDB |
 | 💬 **OneChat** | Real-time communication platform with rooms & live messaging | Socket.io, Express, MongoDB |
 | 🎓 **Intern Setu** | AI-driven internship recommendation engine (SIH 2025) | Python, ML, React |
-| 📊 **University Result Scraper** | Scrapes & converts results to Excel automatically | Python, BeautifulSoup |
-| ✅ **To-Do List App** | Clean, responsive task manager with local persistence | HTML, CSS, JavaScript |
 
 </div>
 
@@ -133,20 +110,20 @@ me.say_hi()
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adarsh-gupta-01&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-gupta-01&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=adarsh-gupta-01&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&icon_color=58a6ff&title_color=58a6ff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarsh-gupta-01&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=adarsh-gupta-01&theme=tokyonight&hide_border=true&background=0d1117&fire=a855f7&ring=6e40c9&currStreakLabel=a855f7)
+![GitHub Streak](https://streak-stats.demolab.com?user=adarsh-gupta-01&theme=github-dark-blue&hide_border=true&background=0d1117&fire=58a6ff&ring=238636&currStreakLabel=58a6ff&sideLabels=8b949e)
 
 </div>
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adarsh-gupta-01&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a855f7&line=6e40c9&point=06b6d4)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=adarsh-gupta-01&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=238636&point=58a6ff)
 
 </div>
 
@@ -162,9 +139,7 @@ me.say_hi()
 
 🏆 **SIH 2025 Participant** — Built Intern Setu, an AI internship engine
 
-⚡ **160+ DSA Problems** — Solved across GFG & LeetCode (and growing!)
-
-🔬 **Interest Areas:** RAG Systems · Prompt Engineering · Image/Video AI · GovTech
+⚡ **180+ DSA Problems** — Solved across GFG & LeetCode (and growing!)
 
 </div>
 
@@ -191,11 +166,11 @@ me.say_hi()
 
 ### 🤝 Let's Connect & Build Together!
 
-[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/idealgupta/)
-[![Email](https://img.shields.io/badge/Drop%20a%20Mail-Gmail-D14836?style=for-the-badge&logo=gmail)](mailto:adarshgupta04022005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff)](https://www.linkedin.com/in/idealgupta/)
+[![Email](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=f85149)](mailto:adarshgupta04022005@gmail.com)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:a855f7,100:6e40c9&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1c2333,50:161b22,100:0d1117&height=120&section=footer" width="100%"/>
 
 </div>
