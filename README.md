@@ -1,17 +1,20 @@
-<!-- HEADER BANNER -->
+<!-- ===================== MODERN DARK TECH HEADER - ANIMATED BANNER ===================== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,15:0a0a0f,40:0d1117,60:0d1117,85:0a0a0f,100:000000&height=260&section=header&text=ADARSH%20GUPTA&fontSize=82&fontColor=d0d8e8&fontAlignY=50&fontAlign=50&desc=AI%20%E2%80%A2%20ML%20%E2%80%A2%20FULL%20STACK%20%E2%80%A2%20DSA&descFontSize=16&descAlignY=68&descAlign=50&descFontColor=4f8cc9&animation=fadeIn&stroke=2f5a8f&strokeWidth=3"/>
+<!-- Animated Waving Banner with Twinkling Text Glow -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:000000,20:0a0a1f,40:111133,60:1a1a4d,80:0f0f33,100:000000&text=ADARSH%20GUPTA&fontSize=95&fontAlign=50&fontAlignY=45&animation=twinkling&fontColor=ffffff&desc=AI%20•%20ML%20•%20FULL%20STACK%20•%20DSA&descSize=22&descAlignY=68&descAlign=50&descColor=4f8cc9&stroke=2f5a8f&strokeWidth=4"/>
 
-<!-- Typing — wider width to prevent cutoff -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=16&duration=2800&pause=700&color=4F8CC9&center=true&vCenter=true&width=800&height=40&lines=Building+RAG+systems+and+full-stack+apps;180%2B+DSA+problems+%E2%80%94+grinding+every+single+day;LLMs+%C2%B7+LangChain+%C2%B7+Vector+DBs+%C2%B7+React+%C2%B7+Node;B.Tech+CSE+(AI%2FML)+%C2%B7+LNCT+Bhopal+%C2%B7+3rd+Year;Shipping+things+that+actually+matter" alt="Typing SVG"/>
+<br/>
 
-</div>
+<!-- Clean & Fast Typing SVG - Blue color -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=22&duration=2000&pause=500&color=4F8CC9&center=true&vCenter=true&width=900&height=60&repeat=true&lines=AI%20%2F%20ML%20%7C%20Full%20Stack%20Developer;Building%20RAG%20Systems%20%26%20Intelligent%20Apps;LLMs%20%C2%B7%20LangChain%20%C2%B7%20Vector%20DBs%20%C2%B7%20React%20%C2%B7%20Node;Grinding%20DSA%20%7C%20Solving%20Real%20Problems;Creating%20Things%20That%20Matter%20%E2%9A%A1"/>
 
----
+<br/>
 
-<!-- SIDE-BY-SIDE LAYOUT -->
-<img align="right" width="42%" src="https://github-readme-stats.vercel.app/api?username=adarsh-gupta-01&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&icon_color=4f8cc9&title_color=d0d8e8&text_color=8b949e&include_all_commits=true&count_private=true&rank_icon=github&card_width=400"/>
+<!-- Subtle Blue Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=4f8cc9&height=4&section=footer"/>
+
+</div>>
 
 ### `$ whoami`
 
