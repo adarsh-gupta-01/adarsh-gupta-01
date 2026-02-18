@@ -181,11 +181,6 @@ goal    : Ship things that matter. Get hired. Repeat.
 <!-- Real contribution activity graph -->
 <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=adarsh-gupta-01&theme=github-compact&hide_border=true&bg_color=0d1117&color=4f8cc9&line=4f8cc9&point=d0d8e8&area=true&area_color=4f8cc9&radius=4&custom_title=Contribution+Activity"/>
 
-<br/>
-
-<!-- Trophy row -->
-<img src="https://github-profile-trophy.vercel.app/?username=adarsh-gupta-01&theme=matrix&no-frame=true&no-bg=true&column=6&margin-w=6&margin-h=6"/>
-
 <br/><br/>
 
 <!-- SNAKE — add .github/workflows/snake.yml to your profile repo to activate -->
